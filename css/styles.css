@@ -142,6 +142,13 @@ body {
   border: 2px solid #c9c9c9;
 }
 
+.search-container {
+  height: 75px;
+  width: 341px;
+  background-color: #a4d8f2;
+  box-sizing: border-box;
+}
+
 .right-info {
   height: 293px;
   width: 245px;
