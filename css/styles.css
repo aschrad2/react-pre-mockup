@@ -76,7 +76,7 @@ body {
   height: 91px;
   width: 281px;
   box-sizing: border-box;
-} 
+}
 
 .name-background  {
   background-color: #2d96dd;
@@ -132,7 +132,7 @@ body {
   font-size: 17px;
   font-weight: 500;
   margin-left: 20px;
-  
+
 }
 
 .mid-info {
@@ -147,6 +147,129 @@ body {
   width: 341px;
   background-color: #a4d8f2;
   box-sizing: border-box;
+}
+
+.red-square {
+  height: 34px;
+  width: 34px;
+  background-color: #73070A;
+  position: relative;
+  top: 20px;
+  left: 22px;
+  display: inline-block;
+}
+
+.whats-happening {
+  height: 42px;
+  width: 251px;
+  position: relative;
+  top: 10px;
+  left: 30px;
+  border: 2px solid #2cbbf3;
+  font-size: 16px;
+  color: #58a4d6;
+  display: inline-block;
+}
+
+.event-container {
+  height: 95px;
+  width: 341px;
+  /* background-color: blue; */
+  border-top: 1px solid #c9c9c9;
+  border-bottom: 1px solid #c9c9c9;
+  box-sizing: border-box;
+}
+
+.yellow-square {
+  height: 40px;
+  width: 40px;
+  background-color: #FEE0C2;
+  position: relative;
+  top: 20px;
+  left: 10px;
+  display: inline-block;
+}
+
+.green-square {
+  height: 40px;
+  width: 40px;
+  background-color: #1ABC9C;
+  position: relative;
+  top: 20px;
+  left: 10px;
+  display: inline-block;
+}
+
+.brown-square {
+  height: 40px;
+  width: 40px;
+  background-color: #BAA891;
+  position: relative;
+  top: 20px;
+  left: 10px;
+  display: inline-block;
+}
+
+.yellow-contact {
+  height: 40px;
+  width: 40px;
+  background-color: #FEE0C2;
+  position: relative;
+  bottom: 20px;
+  left: 10px;
+  display: inline-block;
+}
+
+.green-contact {
+  height: 40px;
+  width: 40px;
+  background-color: #1ABC9C;
+  position: relative;
+  bottom: 90px;
+  left: 10px;
+  display: inline-block;
+}
+
+.blue-contact {
+  height: 40px;
+  width: 40px;
+  background-color: #BAA891;
+  position: relative;
+  bottom: 160px;
+  left: 10px;
+  display: inline-block;
+}
+
+.contact-header {
+  position: relative;
+  left: 55px;
+  bottom: 90px;
+  font-weight: bold;
+}
+
+.contact-text {
+  position: relative;
+  left: 55px;
+  bottom: 100px;
+}
+
+.results-icon {
+  position: relative;
+  right: 17px;
+  bottom: 19px;
+}
+
+.event-header {
+  position: relative;
+  left: 55px;
+  bottom: 53px;
+  font-weight: bold;
+}
+
+.event-text {
+  position: relative;
+  left: 55px;
+  bottom: 63px;
 }
 
 .right-info {
